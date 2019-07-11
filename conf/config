@@ -1,0 +1,6 @@
+
+[sqlServer_line]
+db_name = kylg
+db_user = sa
+db_pass = 123456
+db_ip = localhost
